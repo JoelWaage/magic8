@@ -49,8 +49,7 @@ function randomNumber() {
 };
 
 
-
-//HERE IS SOME TEXT
+// More Text
 
 
 // User Interface
